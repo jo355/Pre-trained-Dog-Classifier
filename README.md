@@ -1,2 +1,3 @@
 # Pre-trained-Dog-Classifier
-This is the first project in the Udacity "AI Programming with Python" Nanodegree program sponsored by AWS( AWS AI and ML DeepRacer Challenge). The repo uses three pre-trained models "ResNet", "AlexNet", "VGG" , classify the dogs in the given dataset( images of dogs and other animals). The results are as displayed below:
+This is the first project in the Udacity "AI Programming with Python" Nanodegree program sponsored by AWS( AWS AI and ML DeepRacer Challenge). The repo uses three pre-trained models "ResNet", "AlexNet", "VGG" , classify the dogs in the given dataset( images of dogs and other animals). The link to the dataset(pet_images) used: https://drive.google.com/drive/folders/1vfIClNT4pf7A2ARkNr9WU-FBIIzmSp0n?usp=sharing  
+The results are uploaded in the results folder as a text file and tabular representation for each of the three models. VGG is found to be the best performing the best in all the metrics used.
